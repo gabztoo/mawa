@@ -1,0 +1,9 @@
+# Temporary preview captures
+preview*.png
+*_detail.png
+test_*.png
+mawa_assets/test_*.png
+
+# OS metadata
+.DS_Store
+Thumbs.db
